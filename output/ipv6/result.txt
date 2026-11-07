@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2026-11-02 00:45:39,https://php.jdshipin.com/TVOD/iptv.php$订阅源
+2026-11-08 00:18:35,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
-CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📡卫视频道,#genre#
+河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
+河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
